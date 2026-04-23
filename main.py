@@ -48,5 +48,5 @@ elif computer_choice > user_choice:
     print("You lose!")
 elif user_choice > computer_choice:
     print("You win!")
-elif computer_choice == computer_choice:
+elif user_choice == computer_choice:
     print("Draw!")
